@@ -165,6 +165,8 @@ The variables in the Generative Equation map directly to the four fundamental di
 
 ## Revolutionary Applications
 
+> **See [PRACTICAL_EXAMPLES.md](PRACTICAL_EXAMPLES.md) for detailed real-world applications** including Finance, Real Estate, Baseball, House Building, and Piano Learning with complete calculations and strategic optimization frameworks.
+
 ### 1. **Perceptual Radiance — Making Digital Humans "Alive"**
 
 Current photorealistic rendering produces images that look "dead" (the Uncanny Valley). The Generative Equation explains why:
@@ -563,6 +565,14 @@ We read it as "compression ratio" when it actually said:
 ---
 
 ## Further Reading
+
+### Practical Examples
+- **[PRACTICAL_EXAMPLES.md](PRACTICAL_EXAMPLES.md)** — Detailed real-world applications with complete calculations:
+  - Finance: Portfolio growth, investment strategy, why day traders fail
+  - Real Estate: Property valuation, leverage strategies, forced appreciation
+  - Baseball: Player development, age curves, team building (Moneyball analysis)
+  - House Building: Saving strategies, construction management, complete 10-year journey
+  - Piano Learning: Skill acquisition, 10,000-hour rule deconstructed, practice optimization
 
 ### Core Documentation
 - **LJPW_FRAMEWORK_V8.4_COMPLETE_UNIFIED_PLUS.md** — Complete framework (all 16 books)
